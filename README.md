@@ -1,4 +1,4 @@
-# React Hooks Tutorial
+# React Hooks CRUD
 
 Simples CRUD app que pode add, update, or delete users.
 
